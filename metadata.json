@@ -1,0 +1,8 @@
+{
+  "name": "Jornadas do lead V4",
+  "description": "Quadro de estratégia do squad: jornada do lead por projeto e plataforma (Meta Ads e Google Ads), criativos reais, jornada proposta e cadência de follow-up.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
